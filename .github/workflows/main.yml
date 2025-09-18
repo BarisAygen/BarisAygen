@@ -18,7 +18,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
         with:
           USERNAME: BarisAygen
-          THEME: gruvbox
       - name: Commit files
         run: |
           git config user.name "github-actions[bot]"
