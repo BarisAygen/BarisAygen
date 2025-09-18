@@ -12,16 +12,11 @@ I enjoy working on projects that connect technology with user experience, and I 
 ---
 
 <p align="left">
+  <p align="left">
   <!-- GitHub Followers -->
   <a href="https://github.com/BarisAygen">
     <img alt="followers" title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/BarisAygen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-
-  <!-- GitHub Stats (Commits + Repos in one card) -->
-  <a href="https://github.com/BarisAygen">
-    <img alt="GitHub Stats" title="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=BarisAygen&show_icons=true&hide_title=true&count_private=true&theme=dark"/>
   </a>
 
   <!-- Profile Views -->
@@ -29,6 +24,13 @@ I enjoy working on projects that connect technology with user experience, and I 
     <img alt="views" title="Profile Views"
       src="https://komarev.com/ghpvc/?username=BarisAygen&style=for-the-badge&color=yellow"/>
   </a>
+
+  <!-- Public Repos -->
+  <a href="https://github.com/BarisAygen?tab=repositories">
+    <img alt="repos" title="Public Repositories"
+      src="https://custom-icon-badges.demolab.com/github/repos/BarisAygen?color=green&style=for-the-badge&logo=repo&label=Repos"/>
+  </a>
+</p>
 
   <!-- YOUTUBE BADGES (COMMENTED OUT for later use) -->
   <!--
@@ -60,8 +62,6 @@ I enjoy working on projects that connect technology with user experience, and I 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -73,3 +73,9 @@ I enjoy working on projects that connect technology with user experience, and I 
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 
 <br />
+
+---
+
+## 📊 GitHub Stats
+
+![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisAygen&show_icons=true&count_private=true&theme=dark)
