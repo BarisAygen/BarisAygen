@@ -7,42 +7,44 @@ I focus mainly on **full-stack development**, **game development**, and **AI-pow
 
 I studied Computer Science & Engineering at **Sabancı University**, worked as a research/teaching assistant, and contributed to a **TÜBİTAK VR project** with Unity. I also studied AI at **Johannes Kepler University** (Erasmus+) and now I’m pursuing my **Master’s in CS at TU Berlin**.
 
-I enjoy working on projects that connect technology with user experience — from mobile apps to VR, AI, and games.
+I enjoy working on projects that connect technology with user experience, and I am especially interested in using AI to make systems smarter and more adaptive.
 
 ---
 
 <p align="left">
   <!-- GitHub Followers -->
   <a href="https://github.com/BarisAygen">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/BarisAygen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/BarisAygen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 
-  <!-- GitHub Commits -->
+  <!-- GitHub Stats (Commits + Repos in one card) -->
   <a href="https://github.com/BarisAygen">
-    <img alt="commits" title="Total Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/BarisAygen?color=blue&style=for-the-badge&logo=git&label=Commits"/>
+    <img alt="GitHub Stats" title="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=BarisAygen&show_icons=true&hide_title=true&count_private=true&theme=dark"/>
   </a>
 
   <!-- Profile Views -->
   <a href="https://github.com/BarisAygen">
-    <img alt="views" title="Profile Views" src="https://komarev.com/ghpvc/?username=BarisAygen&style=for-the-badge&color=yellow"/>
-  </a>
-
-  <!-- Total Repos -->
-  <a href="https://github.com/BarisAygen?tab=repositories">
-    <img alt="repos" title="Public Repositories" src="https://custom-icon-badges.demolab.com/github/repos/BarisAygen?color=green&style=for-the-badge&logo=repo&label=Repos"/>
+    <img alt="views" title="Profile Views"
+      src="https://komarev.com/ghpvc/?username=BarisAygen&style=for-the-badge&color=yellow"/>
   </a>
 
   <!-- YOUTUBE BADGES (COMMENTED OUT for later use) -->
   <!--
   <a href="https://www.youtube.com/channel/UCxxxxxx?sub_confirmation=1">
-    <img alt="YouTube subscribers" title="Subscribe to my channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxxxxxx?color=red&labelColor=ce4630&style=for-the-badge&logo=youtube&label=SUBSCRIBE&logoColor=white"/>
+    <img alt="YouTube subscribers" title="Subscribe to my channel"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCxxxxxx?color=red&labelColor=ce4630&style=for-the-badge&logo=youtube&label=SUBSCRIBE&logoColor=white"/>
   </a>
 
   <a href="https://www.youtube.com/channel/UCxxxxxx">
-    <img alt="YouTube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxxxxxx?color=red&labelColor=ce4630&style=for-the-badge&logo=youtube&label=VIEWS&logoColor=white"/>
+    <img alt="YouTube views" title="YouTube views"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCxxxxxx?color=red&labelColor=ce4630&style=for-the-badge&logo=youtube&label=VIEWS&logoColor=white"/>
   </a>
   -->
 </p>
+
+---
 
 ## 🔧 Languages and Tools
 
@@ -62,5 +64,14 @@ I enjoy working on projects that connect technology with user experience — fro
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<!-- Extra Tech -->
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="Google Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 
 <br />
