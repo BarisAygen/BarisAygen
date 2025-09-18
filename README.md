@@ -77,4 +77,6 @@ I enjoy working on projects that connect technology with user experience, and I 
 ---
 
 ### 📊 Stats
-![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisAygen&show_icons=true&theme=gruvbox)
+
+![Profile Details](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/gruvbox/0-profile-details.svg)
+![Repos & Commits](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/gruvbox/3-stats.svg)
