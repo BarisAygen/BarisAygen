@@ -77,5 +77,5 @@ I enjoy working on projects that connect technology with user experience, and I 
 ---
 
 ### 📊 Stats
-![Profile Details](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/gruvbox/0-profile-details.svg?t=1)
-![Stats](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/gruvbox/3-stats.svg?t=1)
+![Profile Details](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/github/0-profile-details.svg?t=1)
+![Stats](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/github/3-stats.svg?t=1)
