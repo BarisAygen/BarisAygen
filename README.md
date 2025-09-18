@@ -1,4 +1,4 @@
-# 👋 Barış Aygen
+# 👋 My name is Barış Aygen
 
 **Software Developer | Full-stack • Game Dev • AI Integration**
 
@@ -26,11 +26,14 @@ I enjoy working on projects that connect technology with user experience, and I 
   </a>
 
   <!-- Public Repos -->
-  <a href="https://github.com/BarisAygen?tab=repositories">
-    <img alt="repos" title="Public Repositories"
-      src="https://custom-icon-badges.demolab.com/github/repos/BarisAygen?color=green&style=for-the-badge&logo=repo&label=Repos"/>
-  </a>
-</p>
+<a href="https://github.com/BarisAygen?tab=repositories">
+  <img alt="repos" title="Public Repositories"
+    src="https://img.shields.io/badge/Public%20Repos-{{5}}-green?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Total Commits -->
+<img alt="commits" title="Total Commits"
+  src="https://img.shields.io/badge/Commits-{{5}}-blue?style=for-the-badge&logo=git"/>
 
   <!-- YOUTUBE BADGES (COMMENTED OUT for later use) -->
   <!--
@@ -62,7 +65,6 @@ I enjoy working on projects that connect technology with user experience, and I 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
@@ -76,6 +78,5 @@ I enjoy working on projects that connect technology with user experience, and I 
 
 ---
 
-## 📊 GitHub Stats
-
-![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisAygen&show_icons=true&count_private=true&theme=dark)
+### 📊 Stats
+![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisAygen&show_icons=true&theme=gruvbox)
