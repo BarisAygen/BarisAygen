@@ -27,8 +27,10 @@ I enjoy working on projects that connect technology with user experience, and I 
 
   <!-- Public Repos -->
 <a href="https://github.com/BarisAygen?tab=repositories">
- <img alt="public repos" title="Public Repositories"
-  src="https://custom-icon-badges.demolab.com/github/repos/BarisAygen?color=green&style=for-the-badge&logo=repo&label=Repos"/>
+  <img
+    alt="Public Repos"
+    title="Public Repositories"
+    src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BarisAygen&query=$.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=green"/>
 </a>
 
   <!-- YOUTUBE BADGES (COMMENTED OUT for later use) -->
