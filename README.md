@@ -28,12 +28,12 @@ I enjoy working on projects that connect technology with user experience, and I 
   <!-- Public Repos -->
 <a href="https://github.com/BarisAygen?tab=repositories">
   <img alt="repos" title="Public Repositories"
-    src="https://img.shields.io/badge/Public%20Repos-{{5}}-green?style=for-the-badge&logo=github"/>
+    src="https://img.shields.io/badge/Public%20Repos-5-green?style=for-the-badge&logo=github"/>
 </a>
 
 <!-- Total Commits -->
 <img alt="commits" title="Total Commits"
-  src="https://img.shields.io/badge/Commits-{{5}}-blue?style=for-the-badge&logo=git"/>
+  src="https://img.shields.io/badge/Commits-5-blue?style=for-the-badge&logo=git"/>
 
   <!-- YOUTUBE BADGES (COMMENTED OUT for later use) -->
   <!--
