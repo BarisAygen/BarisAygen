@@ -27,13 +27,9 @@ I enjoy working on projects that connect technology with user experience, and I 
 
   <!-- Public Repos -->
 <a href="https://github.com/BarisAygen?tab=repositories">
-  <img alt="repos" title="Public Repositories"
-    src="https://img.shields.io/badge/Public%20Repos-5-green?style=for-the-badge&logo=github"/>
+ <img alt="public repos" title="Public Repositories"
+  src="https://custom-icon-badges.demolab.com/github/repos/BarisAygen?color=green&style=for-the-badge&logo=repo&label=Repos"/>
 </a>
-
-<!-- Total Commits -->
-<img alt="commits" title="Total Commits"
-  src="https://img.shields.io/badge/Commits-5-blue?style=for-the-badge&logo=git"/>
 
   <!-- YOUTUBE BADGES (COMMENTED OUT for later use) -->
   <!--
@@ -79,4 +75,4 @@ I enjoy working on projects that connect technology with user experience, and I 
 ---
 
 ### 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisAygen)](https://github.com/anuraghazra/github-readme-stats)
+![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisAygen&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)
