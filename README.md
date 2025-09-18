@@ -77,5 +77,6 @@ I enjoy working on projects that connect technology with user experience, and I 
 ---
 
 ### 📊 Stats
-![Profile Details](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/github/0-profile-details.svg?t=1)
-![Stats](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/github/3-stats.svg?t=1)
+<!-- Choices: github, dracula, tokyonight, monokai, nord, 2077, solarized, vue, gruvbox, github_dark etc. -->
+![Profile Details](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/dracula/0-profile-details.svg)
+![Stats](https://raw.githubusercontent.com/BarisAygen/BarisAygen/main/profile-summary-card-output/dracula/3-stats.svg)
