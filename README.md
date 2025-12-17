@@ -34,7 +34,8 @@ I enjoy working on projects that connect technology with user experience, and I 
 </a>
 
   <!-- YOUTUBE BADGES (COMMENTED OUT for later use) -->
-  
+
+  <!--
   <a href="https://www.youtube.com/channel/UCPJ3pqDRyRVnYU0yDeoV_mw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D=1">
     <img alt="YouTube subscribers" title="Subscribe to my channel"
       src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCPJ3pqDRyRVnYU0yDeoV_mw?color=red&labelColor=ce4630&style=for-the-badge&logo=youtube&label=SUBSCRIBE&logoColor=white"/>
@@ -45,6 +46,7 @@ I enjoy working on projects that connect technology with user experience, and I 
       src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCPJ3pqDRyRVnYU0yDeoV_mw?color=red&labelColor=ce4630&style=for-the-badge&logo=youtube&label=VIEWS&logoColor=white"/>
   </a>
 </p>
+-->
 
 ---
 
