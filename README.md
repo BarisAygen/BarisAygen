@@ -1,5 +1,11 @@
 # 👋 My name is Barış Aygen
 
+<p align="left">
+<a href="https://barisaygen.info" target="_blank">
+<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-barisaygen.info-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1155ba" alt="Website" />
+</a>
+</p>
+
 **Software Developer | Full-stack • Game Dev • AI Integration**
 
 I'm a software developer passionate about building creative and functional applications.  
